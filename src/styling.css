@@ -1,0 +1,19 @@
+a{
+    font-Size:16px;
+    color:#0059bf;
+}
+
+h2{
+    font-Size:28px;
+    color:#000000;
+}
+
+p{
+    font-Size:"17px";
+    color:#606669;
+}
+.divElem {
+     display:flex;
+     flex-direction : row;
+     justify-content : space-between;
+}
